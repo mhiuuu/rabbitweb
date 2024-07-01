@@ -1,3 +1,4 @@
 requests
 stem
 beautifulsoup4
+selenium
